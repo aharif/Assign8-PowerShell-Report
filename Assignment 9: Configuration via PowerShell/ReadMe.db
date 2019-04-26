@@ -1,0 +1,5 @@
+A PowerShell script that verifies the 'System' environment variable, 'LM_LICENSE_FILE', exists.
+If it exists, the script also verifies that the variable includes "27000@test.university.com" as one of the values in the variable.
+Values (if any are present) are separated by commas "," in this variable.
+Finally, if the value does not exist, this script also performs remediation 
+(add the desired value to the variable, without overwriting the existing values).

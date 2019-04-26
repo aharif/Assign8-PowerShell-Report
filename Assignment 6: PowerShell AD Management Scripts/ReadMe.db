@@ -1,0 +1,7 @@
+PowerShell scripting for managing Active Directory Users and Security Groups.
+
+Script1: Add/Remove Users
+- PowerShell script for adding and removing Users in the Active Directory.
+
+Script2: Create Security Groups
+- PowerShell script for creating security groups in Active Directory.

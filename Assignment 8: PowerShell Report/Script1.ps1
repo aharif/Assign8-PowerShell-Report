@@ -1,0 +1,1 @@
+﻿Get-ADComputer -Filter * -Properties * |select Name, Enabled, whenCreated, whenChanged, DistinguishedName

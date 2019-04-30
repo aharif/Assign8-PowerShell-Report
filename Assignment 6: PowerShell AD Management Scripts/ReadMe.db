@@ -2,6 +2,8 @@ PowerShell scripting for managing Active Directory Users and Security Groups.
 
 Script1: Add_Remove_Users
 - PowerShell script for adding and removing Users in the Active Directory.
+- Provided is the Add_Remove_Users.csv file to provide data for Adding/Remmoving users.
 
 Script2: Security_Groups
 - PowerShell script for creating security groups in Active Directory.
+- Provided is the Security_Groups.csv file to provide data for creating security groups.

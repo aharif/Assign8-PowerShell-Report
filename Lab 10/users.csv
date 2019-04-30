@@ -1,0 +1,8 @@
+Username,FirstName,LastName,Description,OU,OUPath,Password,Action,Generic OU
+ike,Ike,Radiant,Very Radiant!,Business,"ou=Business,ou=ITStaffPriveleged,dc=aarif,dc=local",Thank you class!,Add,OU1
+momo,Mamun,Adil,Manager of Sales,Business,"ou=Business,ou=ITStaffPriveleged,dc=aarif,dc=local",password123!,Add,OU1
+toto,Toasty,McFly,New hire in Marketing,Engineering,"ou=Engineering,ou=ITStaffPriveleged,dc=aarif,dc=local",password1234!,Add,OU2
+momo,Mamun,Adil,Ex-Manager of Sales,Business,"ou=Business,ou=ITStaffPriveleged,dc=aarif,dc=local",hegotfired.,Remove,OU1
+retail1,Retail1,Kiosk,Retail Kiosk 1,HelpDesk,"ou=HelpDesk,ou=ITStaffPriveleged,dc=aarif,dc=local",For Kiosk 1?,Add,OU3
+retail2,Retail2,Kiosk,Retail Kiosk 2,HelpDesk,"ou=HelpDesk,ou=ITStaffPriveleged,dc=aarif,dc=local",For Kiosk 2?,Add,OU3
+ceo,Big,Boss,She is the big boss.,Legal,"ou=Legal,ou=ITStaffPriveleged,dc=aarif,dc=local",password1235!,Add,OU4

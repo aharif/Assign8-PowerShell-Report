@@ -1,1 +1,8 @@
 
+PowerShell Script for managing AD users.
+
+New version release for Assign 6  Add/Remove Users.
+
+Add_Remove_Users1.ps1
+- PowerShell script for adding/removing Users in the Active Directory.
+- Provided is the Add_Remove_Users.csv file to provide data for Adding/Remmoving users.

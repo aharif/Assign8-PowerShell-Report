@@ -1,0 +1,5 @@
+Username,FirstName,LastName,Description,OUPath,Password ,Action
+aharif,Abdul,Arif,IT Manager," ou=ITStaffPriveleged,ou=business,dc=aharif,dc=local",Look4me!,Add
+fkhan7,Farhan,Khan,IT Staff,"ou=ITStaffPriveleged,ou=engineering,dc=aarif,dc=local",qwerty123$!,Add
+hjabbar,Hamza,Jabbar,IT Staff ,"ou=ITStaffPriveleged,ou=legal,dc=aarif,dc=local",abc123!,Remove
+hAfzal,Hashim,Afzal,R&D Staff,"ou=ITStaffPriveleged,ou=research_and_developement,dc=aarif,dc=local",LetsRock123!,Remove

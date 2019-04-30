@@ -1,0 +1,5 @@
+Name,Description,OUPath,Scope,Category
+Business-IT-SG,Administrator,"ou=ITStaffPriveleged,ou=Business,dc=aarif,dc=local",Global,Security
+HelpDesk,Help Desk Supprt,"ou=ITStaffPriveleged,ou=HelpDesk,dc=aarif,dc=local",Global,Security
+Engineering,Engineering IT admin,"ou=ITStaffPriveleged,ou=Engineering,dc=aarif,dc=local",Global,Security
+Research_and_Development,R&D IT Staff,"ou=ITStaffPriveleged,ou=Research_and_Development,dc=aarif,dc=local",Global,Security
